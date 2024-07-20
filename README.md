@@ -34,5 +34,40 @@ Here are some ideas to get you started:
 
 ## :calling: Связаться со мной:
 
-
+<table>
+  <tr>
+    <td>
+      <a href="https://t.me/Tayler_Bateman" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" height="30" alt="Telegram" />
+      </a>
+    </td>
+    <td style="vertical-align: middle;" width="300">
+       <a href="https://t.me/Tayler_Bateman" target="_blank">Telegram</a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="https://vk.com/terrible_mistake" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="30" height="30" alt="VK"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle;" width="300">
+      <a href="https://vk.com/terrible_mistake" target="_blank">VK</a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <a href="mailto:adsmi888@gmail.com" target="_blank">
+        <img src="" width="30" height="30" alt="Gmail"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle;" width="300">
+      <a href="mailto:adsmi888@gmail.com" target="_blank">adsmi888@gmail.com</a>
+    </td>
+  </tr>
+</table>
    
