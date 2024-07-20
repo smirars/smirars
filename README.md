@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="mailto:adsmi888@gmail.com" target="_blank">
-        <img src="" width="30" height="30" alt="Gmail"/>
+        <img src="/src/gmail.png" width="30" height="30" alt="Gmail"/>
       </a>
     </td>
     <td style="vertical-align: middle;" width="300">
