@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Мой профиль в htmlacademy: https://htmlacademy.ru/profile/arsonist
 
 ## :heavy_check_mark: Навыки:
-- Хорошее знание HTML, CSS и JS
+- Уверенное знание HTML, CSS и JS
 - Понимание базовых принципов доступности
 - Pixel Perfect
 - Кроссбраузерная и адаптивная вёрстка
