@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - Понимание базовых принципов ООП
 - Знаком с препроцессором Less
 - Async/await & Promise
+- Базовые знания TypeScript
 
 ## :calling: Связаться со мной:
 
