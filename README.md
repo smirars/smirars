@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - Знаком с БЭМ-методологией
 - Манипулирование DOM
 - Понимание базовых принципов ООП
-- Знаком с препроцессором Less
+- Знаком с препроцессорами Less и Sass
 - Async/await & Promise
 - Базовые знания TypeScript
 
