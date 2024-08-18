@@ -23,16 +23,13 @@ Here are some ideas to get you started:
 - Мой профиль в htmlacademy: https://htmlacademy.ru/profile/arsonist
 
 ## :heavy_check_mark: Навыки:
-- Уверенное знание HTML, CSS и JS
-- Понимание базовых принципов доступности
-- Pixel Perfect
-- Кроссбраузерная и адаптивная вёрстка
-- Знаком с БЭМ-методологией
-- Манипулирование DOM
-- Понимание базовых принципов ООП
-- Знаком с препроцессорами Less и Sass
-- Async/await & Promise
-- Базовые знания TypeScript
+- HTML, CSS и JS
+- Принципы доступности
+- Кроссбраузерная и адаптивная вёрстка, Pixel Perfect
+- БЭМ-методология
+- ООП
+- Препроцессоры Less и Sass
+- TypeScript (basics)
 
 ## :calling: Связаться со мной:
 
