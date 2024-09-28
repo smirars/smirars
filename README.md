@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Мой профиль в htmlacademy: https://htmlacademy.ru/profile/arsonist
 
 ## :floppy_disk: Пройденные курсы:
-- CodeBasics: <a href="https://code-basics.com/ru/languages/typescript" target="_blank">TypeScript</a>
+- CodeBasics: <a href="https://code-basics.com/ru/languages/typescript" target="blank">TypeScript</a>
 
 ## :heavy_check_mark: Навыки:
 - HTML, CSS и JS
