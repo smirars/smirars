@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - Мой профиль на LeetCode: https://leetcode.com/u/smirars/
 - Мой профиль в htmlacademy: https://htmlacademy.ru/profile/arsonist
 
+## :mag_right: Пройденные курсы:
+- CodeBasics: <a href="https://code-basics.com/ru/languages/typescript">TypeScript</a>
+
 ## :heavy_check_mark: Навыки:
 - HTML, CSS и JS
 - Принципы доступности
