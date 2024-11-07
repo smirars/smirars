@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - ООП
 - Препроцессоры Less и Sass
 - TypeScript (basics)
+- React
+- React Native (basics)
 
 ## :calling: Связаться со мной:
 
